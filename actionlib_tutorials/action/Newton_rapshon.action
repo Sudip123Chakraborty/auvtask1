@@ -1,0 +1,11 @@
+#goal definition
+float32 order
+---
+#result definition
+float32 sequence
+int32 rank
+---
+#feedback
+float32 sequence
+
+
